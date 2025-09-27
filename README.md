@@ -1,6 +1,6 @@
 # 📦 Diamond Price Prediction  
 
-This project predicts diamond prices using Machine Learning. It includes data preprocessing, feature engineering, and model training for accurate predictions.  
+This project predicts diamond prices using Regression Analysis. It includes data preprocessing, feature engineering, and model training for accurate predictions.  
 
 ---
 
